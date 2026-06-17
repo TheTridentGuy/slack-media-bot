@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cobalt_api"
-version = "1.1"
+version = "1.2"
 dependencies = ["requests"]
 
 [tool.setuptools]
