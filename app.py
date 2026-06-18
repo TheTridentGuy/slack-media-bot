@@ -53,7 +53,7 @@ def raw_file_reply(message):
                     "elements": [
                         {
                             "type": "mrkdwn",
-                            "text": f"Shared by <@{message['user']}> | <{permalink}|Link to file> | <https://TheTridentGuy/slack-cobalt|:star: on GitHub>"
+                            "text": f"Shared by <@{message['user']}> | <{permalink}|Link to file> | <https://github.com/TheTridentGuy/slack-cobalt|:star: on GitHub>"
                         }
                     ]
                 }

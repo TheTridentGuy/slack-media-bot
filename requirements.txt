@@ -1,4 +1,2 @@
-cobalt_api/
 slack_bolt
 dotenv
-slack-sdk
